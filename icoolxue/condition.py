@@ -58,6 +58,7 @@ for n in range(1, 6):
 
 for letter in 'Runoob':
     if letter == 'o':
+        # 不做任何事情，一般用做占位语句
         pass
         print('执行 pass 块')
     print('当前字母 :', letter)
