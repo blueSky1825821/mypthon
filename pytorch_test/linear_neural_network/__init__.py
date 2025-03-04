@@ -7,3 +7,7 @@ import numpy as np
 from torch.utils import data
 # nn是神经网络的缩写
 from torch import nn
+
+import torchvision
+from torchvision import transforms
+from IPython import display
